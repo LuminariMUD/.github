@@ -36,7 +36,7 @@ But the game server is only the heart of the story.
 
 The **LumiVerse** is a connected, multi-product software ecosystem: native and browser clients, real-time protocols, cross-world and Discord gateways, spatial world-building tools, graph-powered lore intelligence, and a full community website and wiki—all maintained by a very small volunteer team.
 
-> **Small team. Vast undertaking.** In commercial terms, the LumiVerse resembles a substantial mid-sized product ecosystem: not mega-company scale, but unquestionably serious engineering and operations.
+> **Small team. Vast undertaking.** The LumiVerse resembles a substantial mid-sized product ecosystem, unquestionably serious engineering and operations all open-source / community-driven.
 
 ## Eight systems. One world.
 
